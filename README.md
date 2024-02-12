@@ -56,12 +56,34 @@ The sequence of all the algorithms used is as follows:
 The **Accuracy** of all the following 10 Regression Algortihms is provided below:  
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/fca5c28d-cbdd-46a2-8118-89a9dca0d663)
+
+The **RMSE** of all the following 10 Regression Algortihms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
+
+The **MAE** of all the following 10 Regression Algortihms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
+
+The **MAPE** of all the following 10 Regression Algortihms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
+
+The **Precision** of all the following 10 Regression Algortihms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/1335a559-e524-40a4-bac1-19d6959f06e9)
+
+The **Recall** of all the following 10 Regression Algortihms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/c48a6e60-d8cd-4145-9fd0-27a3235c53f2)
+
+
  
 
 ## Future Work
 
-- Discuss potential improvements to the model.
-- Suggestions for additional features or algorithms that could enhance performance.
+- We can further combine this data with that of stock sentiment data in order to achieve even better conclusion
+- Also we can possibly use Clustering algorithsm to develop a buy/sell recommendation system
 
 ## Author
 
