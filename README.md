@@ -41,7 +41,22 @@ The dataset used in this project is sourced from Yahoo Finance and includes hist
 
 ## Results
 
-Include a summary of the performance of each algorithm and any insights gained from the analysis.
+The sequence of all the algorithms used is as follows:
+1. Linear Regression
+2. SVR
+3. Random Forest
+4. Gradient Boosting Models (GBM)
+5. Extreme Gradient Boosting (XGBoost)
+6. AdaBoostRegressor
+7. Decision Tree
+8. KNeighborsRegressor(KNN)
+9. Artificial Neural Networks (ANN)
+10. LSTM(Long Short term Memory)
+
+The **Accuracy** of all the following 10 Regression Algortihms is provided below:  
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/fca5c28d-cbdd-46a2-8118-89a9dca0d663)
+ 
 
 ## Future Work
 
