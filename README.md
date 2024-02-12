@@ -75,10 +75,9 @@ The **Precision** of all the following 10 Regression Algortihms is provided belo
 
 The **Recall** of all the following 10 Regression Algortihms is provided below: 
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/c48a6e60-d8cd-4145-9fd0-27a3235c53f2)
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/d4ad169c-1c39-4928-8d7f-2702fdab4d79)
 
 
- 
 
 ## Future Work
 
