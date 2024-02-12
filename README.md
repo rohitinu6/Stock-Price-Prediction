@@ -84,6 +84,12 @@ The **Recall** of all the following 10 Regression Algortihms is provided below:
 - We can further combine this data with that of stock sentiment data in order to achieve even better conclusion
 - Also we can possibly use Clustering algorithsm to develop a buy/sell recommendation system
 
+## Conclusion
+
+- We can clearly see in the accuracy chart that the accuracy of the algorithms - "2", "6", "8" and "10" are the highest.
+- But when we see the rmse chart we find that the algorithms "2" and "8" is unusually high.
+- So we conclude that the algorithms "6" and "10" i.e. AdaBoostRegressor and LSTM(Long Short term Memory) have performed very well both in terms of accuracy and rmse.
+
 ## Author
 
 Rohit Dubey
