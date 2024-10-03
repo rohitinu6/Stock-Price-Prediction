@@ -6,7 +6,7 @@ This project focuses on predicting the stock prices of "The State Bank Of India"
 
 ## Features
 
-- Utilizes various classification algorithms for stock price prediction.
+- Utilizes various regression algorithms for stock price prediction.
 - Dataset collected from Yahoo Finance for "The State Bank Of India."
 
 ## Algorithms Used
@@ -53,42 +53,29 @@ The sequence of all the algorithms used is as follows:
 9. Artificial Neural Networks (ANN)
 10. LSTM(Long Short term Memory)
 
-The **Accuracy** of all the following 10 Regression Algortihms is provided below:  
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/fca5c28d-cbdd-46a2-8118-89a9dca0d663)
-
-The **RMSE** of all the following 10 Regression Algortihms is provided below: 
+The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
 
-The **MAE** of all the following 10 Regression Algortihms is provided below: 
+The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
 
-The **MAPE** of all the following 10 Regression Algortihms is provided below: 
+The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
-
-The **Precision** of all the following 10 Regression Algortihms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/1335a559-e524-40a4-bac1-19d6959f06e9)
-
-The **Recall** of all the following 10 Regression Algortihms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/d4ad169c-1c39-4928-8d7f-2702fdab4d79)
 
 
 
 ## Future Work
 
 - We can further combine this data with that of stock sentiment data in order to achieve even better conclusion
-- Also we can possibly use Clustering algorithsm to develop a buy/sell recommendation system
+- Also we can possibly use Clustering algorithms to develop a buy/sell recommendation system
 
 ## Conclusion
 
-- We can clearly see in the accuracy chart that the accuracy of the algorithms - "2", "6", "8" and "10" are the highest.
-- But when we see the rmse chart we find that the algorithms "2" and "8" is unusually high.
-- So we conclude that the algorithms "6" and "10" i.e. AdaBoostRegressor and LSTM(Long Short term Memory) have performed very well both in terms of accuracy and rmse.
+- Among the models assessed, AdaBoostRegressor and LSTM emerged as the top performers, showcasing low RMSE, MAE, and MAPE values. These metrics suggest that these algorithms effectively capture the underlying trends and patterns in the stock price data, making them reliable for prediction tasks.
+- While some models demonstrated solid predictive capabilities, others, such as Support Vector Regression (SVR) and KNeighborsRegressor, recorded higher RMSE and MAE values. This suggests that these algorithms may produce acceptable predictions on average but are susceptible to significant errors in certain scenarios. Consequently, their reliability in real-world applications could be compromised, highlighting the need for careful consideration when selecting models for stock price predictions.
 
 ## Author
 
