@@ -28,7 +28,7 @@ body:
     id: screenshots
     attributes:
       label: Screenshots
-      description: Please add screenshots of the before and/or after the proposed changes.
+      description: Please include screenshots showing the state of the application before and after the proposed changes.
     validations:
       required: false
   - type: dropdown
