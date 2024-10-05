@@ -2,12 +2,13 @@
 
 ## Overview
 
-This project focuses on predicting the stock prices of "The State Bank Of India" using machine learning Regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
+This project focuses on predicting the stock prices of "The State Bank Of India" using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
 
 ## Features
 
 - Utilizes various regression algorithms for stock price prediction.
 - Dataset collected from Yahoo Finance for "The State Bank Of India."
+- Enhanced performance through parameter tuning and additional algorithms.
 
 ## Algorithms Used
 
@@ -18,13 +19,15 @@ This project focuses on predicting the stock prices of "The State Bank Of India"
 - Extreme Gradient Boosting (XGBoost)
 - AdaBoostRegressor
 - Decision Tree
-- KNeighborsRegressor(KNN)
+- KNeighborsRegressor (KNN)
 - Artificial Neural Networks (ANN)
-- LSTM(Long Short term Memory)
-
+- LSTM (Long Short Term Memory)
+- Logistic Regression
+- Naive Bayes 
 ## Dataset
 
-The dataset used in this project is sourced from Yahoo Finance and includes historical stock data for "The State Bank Of India." It comprises relevant features such as Open, High, Low, Close prices, and volume.
+The dataset used in this project is sourced from Yahoo Finance and includes historical stock data for "The State Bank Of India." It comprises relevant features such as Open, High, Low, Close prices, and volume. 
+Datasets are now loaded from the local `Data` directory to improve efficiency and reduce execution lag.
 
 ## Project Structure
 
@@ -49,32 +52,33 @@ The sequence of all the algorithms used is as follows:
 5. Extreme Gradient Boosting (XGBoost)
 6. AdaBoostRegressor
 7. Decision Tree
-8. KNeighborsRegressor(KNN)
+8. KNeighborsRegressor (KNN)
 9. Artificial Neural Networks (ANN)
-10. LSTM(Long Short term Memory)
+10. LSTM (Long Short Term Memory)
+11. Logistic Regression
+12. Naive Bayes
 
-The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
+The **Root Mean Square Error (RMSE)** of all the following regression algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
 
-The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
+The **Mean Absolute Error (MAE)** of all the following regression algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
 
-The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
+The **Mean Absolute Percentage Error (MAPE)** of all the following regression algorithms is provided below: 
 
 ![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
 
-
-
 ## Future Work
 
-- We can further combine this data with that of stock sentiment data in order to achieve even better conclusion
-- Also we can possibly use Clustering algorithms to develop a buy/sell recommendation system
+- We can further combine this data with that of stock sentiment data in order to achieve even better conclusions.
+- Additionally, we can possibly use clustering algorithms to develop a buy/sell recommendation system.
 
 ## Conclusion
 
 - Among the models assessed, AdaBoostRegressor and LSTM emerged as the top performers, showcasing low RMSE, MAE, and MAPE values. These metrics suggest that these algorithms effectively capture the underlying trends and patterns in the stock price data, making them reliable for prediction tasks.
+- The newly added Logistic Regression and Naive Bayes algorithms provide additional options for analysis and model performance evaluation.
 - While some models demonstrated solid predictive capabilities, others, such as Support Vector Regression (SVR) and KNeighborsRegressor, recorded higher RMSE and MAE values. This suggests that these algorithms may produce acceptable predictions on average but are susceptible to significant errors in certain scenarios. Consequently, their reliability in real-world applications could be compromised, highlighting the need for careful consideration when selecting models for stock price predictions.
 
 ## Author
@@ -88,4 +92,3 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
