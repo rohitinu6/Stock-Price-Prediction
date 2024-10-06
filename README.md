@@ -1,6 +1,6 @@
 <div align="center">
 
-##  📈 Stock Price Prediction Project
+##  📈 Stock Price Prediction 
 
 ![Stock Prediction Model](https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/InvestWise%20-%20Stock%20Prediction%20Model.png)
 
