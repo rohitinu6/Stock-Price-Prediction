@@ -81,6 +81,15 @@ The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression
 
 Rohit Dubey
 
+## Contributing
+
+We welcome contributions to this project! Please see our [Contributing.md](./CONTRIBUTING.md) file for guidelines on how to get involved.
+
+## Our Valuable Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
