@@ -85,6 +85,10 @@ Rohit Dubey
 
 We welcome contributions to this project! Please see our [Contributing.md](./CONTRIBUTING.md) file for guidelines on how to get involved.
 
+## Our Valuable Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
