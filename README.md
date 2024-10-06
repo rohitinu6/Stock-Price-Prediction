@@ -70,18 +70,18 @@ The sequence of all the algorithms used is as follows:
 
 ## 📊 Performance Metrics
 
-| 📉 Algorithm                      | RMSE | MAE  | MAPE |
-|-----------------------------------|------|------|------|
-| Linear Regression                 | ...  | ...  | ...  |
-| SVR                               | ...  | ...  | ...  |
-| Random Forest                     | ...  | ...  | ...  |
-| GBM                               | ...  | ...  | ...  |
-| XGBoost                           | ...  | ...  | ...  |
-| AdaBoostRegressor                 | ...  | ...  | ...  |
-| Decision Tree                     | ...  | ...  | ...  |
-| KNeighborsRegressor (KNN)        | ...  | ...  | ...  |
-| ANN                               | ...  | ...  | ...  |
-| LSTM                              | ...  | ...  | ...  |
+The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
+
+The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
+
+The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
+
+![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
+
 
 ## 🔮 Future Work
 
