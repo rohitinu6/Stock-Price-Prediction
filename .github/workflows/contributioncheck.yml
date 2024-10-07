@@ -1,9 +1,8 @@
 name: PR Contribution Rules Check
 
 on:
-    workflow_dispatch:
-  # pull_request:
-  #   types: [opened, edited, synchronize]  # Trigger on PR creation or update
+  pull_request:
+    types: [opened, edited, synchronize]
 
 jobs:
   check-contribution-rules:
