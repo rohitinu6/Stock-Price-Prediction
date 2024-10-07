@@ -1,0 +1,31 @@
+name: PR Contribution Rules Check
+
+on:
+    workflow_dispatch:
+  # pull_request:
+  #   types: [opened, edited, synchronize]  # Trigger on PR creation or update
+
+jobs:
+  check-contribution-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v4
+
+    - name: Check PR Description for Contribution Rules
+      run: |
+        # Check for issue reference
+        if ! grep -q "Issue Reference:" "$GITHUB_EVENT_PATH"; then
+          echo "PR does not reference an issue."
+          exit 1
+        fi
+
+        # Check for description of changes
+        if ! grep -q "Description of changes:" "$GITHUB_EVENT_PATH"; then
+          echo "PR does not contain a description of changes."
+          exit 1
+        fi
+
+    - name: Success message
+      run: echo "PR follows contribution rules."
