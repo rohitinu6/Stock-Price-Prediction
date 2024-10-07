@@ -22,5 +22,5 @@
 - [ ] My changes generate no new warnings or errors
 - [ ] Unit tests pass locally with my changes
 
-## Notes for Testings your implementation:
+## Notes for Testing your implementation:
 <!-- Describe how the changes or the model you added can be tested for accuracy. Include any setup or dependencies that the maintainer or reviewer might need to install -->
