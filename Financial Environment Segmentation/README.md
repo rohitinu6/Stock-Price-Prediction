@@ -1,5 +1,10 @@
 # 📈 Financial Environment Segmentation 
 
+<p align="center">
+    <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Financial%20Environment%20Segmentation/Financial%20Insights%20-%20Market%20Segmentation.png" width="600" />
+</p>
+
+
 ## 📚 Table of Contents
 1. [📖 Overview](#-overview)
 2. [🚀 Problem Statement](#-problem-statement)
