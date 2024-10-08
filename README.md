@@ -1,47 +1,69 @@
-# Stock Price Prediction Project
+<div align="center">
 
-## Overview
+##  📈 Stock Price Prediction 
 
-This project focuses on predicting the stock prices of "The State Bank Of India" using machine learning Regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
+![Stock Prediction Model](https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/InvestWise%20-%20Stock%20Prediction%20Model.png)
 
-## Features
+</div>
 
-- Utilizes various classification algorithms for stock price prediction.
-- Dataset collected from Yahoo Finance for "The State Bank Of India."
 
-## Algorithms Used
+## 🌟 Overview
 
-- Linear Regression
-- SVR
-- Random Forest
-- Gradient Boosting Models (GBM)
-- Extreme Gradient Boosting (XGBoost)
-- AdaBoostRegressor
-- Decision Tree
-- KNeighborsRegressor(KNN)
-- Artificial Neural Networks (ANN)
-- LSTM(Long Short term Memory)
+This project focuses on predicting the stock prices of **The State Bank Of India** using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
 
-## Dataset
+## 🛠️ Features
 
-The dataset used in this project is sourced from Yahoo Finance and includes historical stock data for "The State Bank Of India." It comprises relevant features such as Open, High, Low, Close prices, and volume.
+- Utilizes various regression algorithms for stock price prediction.
+- Dataset collected from Yahoo Finance for **The State Bank Of India**.
 
-## Project Structure
+## 🔍 Algorithms Used
 
-- `data/`: Contains the dataset files.
-- `notebooks/`: Jupyter notebooks with the code for data exploration, preprocessing, and model training.
-- `src/`: Python source code for the project.
-- `requirements.txt`: List of dependencies needed to run the project.
+We implemented the following regression algorithms for stock price prediction:
 
-## How to Run
+| 🤖 Algorithm                              | 📜 Description                                      |
+|-------------------------------------------|----------------------------------------------------|
+| Linear Regression                        | A basic regression algorithm.                       |
+| Support Vector Regression (SVR)         | Effective for non-linear relationships.             |
+| Random Forest                            | Ensemble learning method using decision trees.      |
+| Gradient Boosting Models (GBM)          | Sequentially builds models to improve predictions.  |
+| Extreme Gradient Boosting (XGBoost)     | Advanced boosting technique with regularization.    |
+| AdaBoostRegressor                        | Combines multiple weak learners.                    |
+| Decision Tree                            | Simple yet effective model based on tree structure. |
+| KNeighborsRegressor (KNN)               | Predicts based on nearest neighbors' average.      |
+| Artificial Neural Networks (ANN)        | Mimics human brain for complex data patterns.       |
+| Long Short Term Memory (LSTM)           | Suitable for time-series prediction.                |
 
-1. Install dependencies using `pip install -r requirements.txt`.
+## 📊 Dataset
+
+The dataset used in this project is sourced from Yahoo Finance and includes historical stock data for **The State Bank Of India**. It comprises relevant features such as:
+
+- 📈 Open prices
+- 📉 High prices
+- 📉 Low prices
+- 💵 Close prices
+- 📦 Volume
+
+## 📁 Project Structure
+
+📂 data/ # Contains the dataset files.
+📓 notebooks/ # Jupyter notebooks with the code for data exploration, preprocessing, and model training.
+🐍 src/ # Python source code for the project.
+📋 requirements.txt # List of dependencies needed to run the project.
+
+
+## 🚀 How to Run
+
+1. Install dependencies using:
+   ```bash
+   pip install -r requirements.txt
+   ```
 2. Execute the notebooks in the `notebooks/` folder in the given order.
 3. Run the scripts in the `src/` folder for further analysis or model training.
 
-## Results
+## 📈 Results
 
 The sequence of all the algorithms used is as follows:
+
 1. Linear Regression
 2. SVR
 3. Random Forest
@@ -49,51 +71,50 @@ The sequence of all the algorithms used is as follows:
 5. Extreme Gradient Boosting (XGBoost)
 6. AdaBoostRegressor
 7. Decision Tree
-8. KNeighborsRegressor(KNN)
+8. KNeighborsRegressor (KNN)
 9. Artificial Neural Networks (ANN)
-10. LSTM(Long Short term Memory)
+10. Long Short Term Memory (LSTM)
 
-The **Accuracy** of all the following 10 Regression Algortihms is provided below:  
+## 📊 Performance Metrics
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/fca5c28d-cbdd-46a2-8118-89a9dca0d663)
+The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
+![image](images\f23e9194-72de-438d-bd69-744667680d3e.jpeg)
 
-The **RMSE** of all the following 10 Regression Algortihms is provided below: 
+The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
+![image](images\085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg)
 
-The **MAE** of all the following 10 Regression Algortihms is provided below: 
+The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
-
-The **MAPE** of all the following 10 Regression Algortihms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
-
-The **Precision** of all the following 10 Regression Algortihms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/1335a559-e524-40a4-bac1-19d6959f06e9)
-
-The **Recall** of all the following 10 Regression Algortihms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/d4ad169c-1c39-4928-8d7f-2702fdab4d79)
+![image](images\6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg)
 
 
+## 🔮 Future Work
 
-## Future Work
+- Combine this data with stock sentiment data to enhance prediction accuracy.
+- Utilize clustering algorithms to develop a buy/sell recommendation system.
 
-- We can further combine this data with that of stock sentiment data in order to achieve even better conclusion
-- Also we can possibly use Clustering algorithsm to develop a buy/sell recommendation system
+## 🏆 Conclusion
 
-## Conclusion
+Among the models assessed, **AdaBoostRegressor** and **LSTM** emerged as the top performers, showcasing low RMSE, MAE, and MAPE values. These metrics suggest that these algorithms effectively capture the underlying trends and patterns in the stock price data, making them reliable for prediction tasks.
 
-- We can clearly see in the accuracy chart that the accuracy of the algorithms - "2", "6", "8" and "10" are the highest.
-- But when we see the rmse chart we find that the algorithms "2" and "8" is unusually high.
-- So we conclude that the algorithms "6" and "10" i.e. AdaBoostRegressor and LSTM(Long Short term Memory) have performed very well both in terms of accuracy and rmse.
+While some models demonstrated solid predictive capabilities, others, such as **Support Vector Regression (SVR)** and **KNeighborsRegressor**, recorded higher RMSE and MAE values. This indicates that these algorithms may yield acceptable predictions on average but are susceptible to significant errors in certain scenarios, emphasizing the need for careful model selection for stock price predictions.
 
-## Author
+## ✍️ Author
 
-Rohit Dubey
+**Rohit Dubey** 👨‍💻
 
-## License
+## 🤝 Contributing
+
+We welcome contributions to this project! Please see our [Contributing.md](./CONTRIBUTING.md) file for guidelines on how to get involved.
+
+## 🌍 Our Valuable Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+
+## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
+
+
+
