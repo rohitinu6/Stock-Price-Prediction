@@ -1,10 +1,5 @@
 # 📈 Financial Environment Segmentation 
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Financial%20Environment%20Segmentation/Financial%20Insights%20-%20Market%20Segmentation.png" width="600" />
-</p>
-
-
 ## 📚 Table of Contents
 1. [📖 Overview](#-overview)
 2. [🚀 Problem Statement](#-problem-statement)
@@ -43,6 +38,27 @@ To get started, ensure you have the necessary libraries installed:
 | matplotlib     | Data visualization                        |
 | scikit-learn   | Machine learning algorithms               |
 | yfinance       | Financial data retrieval                  |
+
+### Clone the Repository
+
+1. Clone this repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/alo7lika/Stock-Price-Prediction.git
+   ```
+2. Navigate to the project directory
+   ```bash
+   cd Stock-Price-Prediction/Financial\ Environment\ Segmentation
+   ```
+3. It is recommended to create a virtual environment to manage dependencies:
+   ```
+   python -m venv env
+   source env/bin/activate  # On Windows use `env\Scripts\activate`
+   ```
+4. Install the necessary libraries using pip:
+   ```
+   pip install -r requirements.txt
+   ```
+
 
 ## ⚙️ Alternatives Considered
 Several alternative approaches were evaluated for market regime detection:
