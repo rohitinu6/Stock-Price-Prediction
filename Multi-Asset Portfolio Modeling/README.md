@@ -57,12 +57,20 @@ Add your API keys to the environment file or directly to the Python script.
 ```bash
 python app.py
 ```
-### 🎯 To-Do List
+## 🛠️ Usage
+Once the dashboard is running, you can:
+
+- **Upload your dataset**: Import your asset data in `.csv` format to get started.
+- **Set portfolio parameters**: Adjust risk preferences, asset allocations, and other settings via the dashboard.
+- **Visualize results**: See optimized portfolio weights, performance metrics, and scenario simulations.
+- **Analyze scenarios**: Use the scenario analysis tool to model different market conditions.
+
+## 🎯 To-Do List
 - Incorporate more alternative data sources (e.g., geopolitics, interest rates).
 - Improve sentiment analysis by integrating additional sentiment models.
 - Expand stress testing for various asset classes (bonds, crypto).
 
-### 🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! To contribute:
 1. Fork the repository.
 2. Create a new branch for your feature or bugfix.
@@ -70,9 +78,9 @@ Contributions are welcome! To contribute:
 
 Please ensure that your code follows the existing style and includes appropriate tests.
 
-### 📜 License
+## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-### 💬 Questions?
+## 💬 Questions?
 If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/alo7lika/multi-asset-portfolio-modeling/issues) or email me at [alolikabhowmik72@g
 mail.com]
