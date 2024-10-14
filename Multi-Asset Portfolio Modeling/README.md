@@ -82,5 +82,4 @@ Please ensure that your code follows the existing style and includes appropriate
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 💬 Questions?
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/alo7lika/multi-asset-portfolio-modeling/issues) or email me at [alolikabhowmik72@g
-mail.com]
+If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/alo7lika/multi-asset-portfolio-modeling/issues) or email me at [alolikabhowmik72@gmail.com]
