@@ -2,6 +2,19 @@
 
 Welcome to the **Multi-Asset Portfolio Modeling** project! This tool leverages advanced financial models to help optimize portfolio allocation across multiple assets using real-time data, sentiment analysis, and scenario analysis. This README provides an overview of the project, its functionality, and how to get started.
 
+## 📚 Table of Contents
+
+1. [🌟 Features](#-features)
+2. [🚀 Getting Started](#-getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Installation](#installation)
+   - [Set up API Keys](#set-up-your-api-keys-for-real-time-data-integration)
+3. [🛠️ Usage](#-usage)
+4. [🎯 To-Do List](#-to-do-list)
+5. [🤝 Contributing](#-contributing)
+6. [📜 License](#-license)
+7. [💬 Questions?](#-questions)
+
 ## 🌟 Features
 
 This project enhances traditional portfolio modeling with several powerful features:
@@ -34,11 +47,13 @@ Ensure you have the following installed:
    ```bash
    pip install -r requirements.txt
    ```
-3.**Set up your API keys for real-time data integration**:
+3. **Set up your API keys for real-time data integration**:
+
 Sign up for an API key from Alpha Vantage or Yahoo Finance.
+
 Add your API keys to the environment file or directly to the Python script.
 
-4**Run the dashboard**:
+4. **Run the dashboard**:
 ```bash
 python app.py
 ```
