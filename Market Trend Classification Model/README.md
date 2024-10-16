@@ -2,6 +2,11 @@
 
 The **Market Trend Classification Model** aims to identify and classify different market regimes using historical stock price data and advanced machine learning techniques. This model provides valuable insights for traders and investors to make informed decisions in dynamic financial markets.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Market%20Trend%20Classification%20Model/MarketTrend%20Analytics%20-%20Classification%20Model.png" width="600" />
+</p>
+
+
 ## 📚 Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
