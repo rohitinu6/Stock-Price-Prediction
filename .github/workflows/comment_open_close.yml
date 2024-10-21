@@ -25,5 +25,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           issue_number: ${{ github.event.issue.number }}
-          body: " ✅ This issue has been successfully closed. Thank you for your contribution and helping us improve the project! If you have any more ideas or run into other issues, feel free to open a new one. Happy coding! 🚀
-            name: Auto-comment bot for issues"
+          body: " ✅ This issue has been successfully closed. Thank you for your contribution and helping us improve the project! If you have any more ideas or run into other issues, feel free to open a new one. Happy coding! 🚀"
