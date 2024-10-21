@@ -1,38 +1,34 @@
-name: Auto Comment on PR Merge
+name: Merge Thank You
 
 # Created by @smog-root
 
 on:
-  pull_request:
-    types: [closed]
+  pull_request_target:
+    types: [closed]  # Trigger when a PR is closed
 
 permissions:
   issues: write
   pull-requests: write
 
 jobs:
-  comment:
+  post_merge_message:
+    if: github.event.pull_request.merged == true  # Only run if the PR was merged
     runs-on: ubuntu-latest
-    permissions:
-      pull-requests: write
-    if: github.event.pull_request.merged == true
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
+      - name: Post thank you message
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}  # Ensure token is used
+          script: |
+            const prNumber = context.payload.pull_request.number;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
 
-    - name: Add Comment to Issue
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        COMMENT=$(cat <<EOF
-        {
-          "body": "🎉 Your chaotic pull request has been successfully merged! 🎉 Thank you for your valuable contribution to our chaos. Your chaos are greatly appreciated. Feel free to reach out if you have any more contributions or if there's anything chaotic we can assist you with. Keep up the chaotic work! 🚀"
-        }
-        EOF
-        )
-        curl -X POST \
-          -H "Authorization: Bearer $GITHUB_TOKEN" \
-          -H "Accept: application/vnd.github.v3+json" \
-          https://api.github.com/repos/${{ github.repository }}/issues/${{ github.event.pull_request.number }}/comments \
-          -d "$COMMENT"
+            // Post a thank you message upon PR merge
+            await github.rest.issues.createComment({
+              owner: owner,
+              repo: repo,
+              issue_number: prNumber,
+              body: `🎉🎉 Thank you for your contribution! Your PR #${prNumber} has been merged! 🎉🎉`
+            });
