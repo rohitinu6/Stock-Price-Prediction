@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Price Predictor</title>
+    <link rel="stylesheet" href="static/css/home.css"> <!-- Link to your CSS -->
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to Our Stock Price Predictor</h1>
+        <p>Use this tool to predict stock prices based on historical data.</p>
+        <nav>
+            <ul>
+                <li><a href="{{ url_for('predict_close') }}">Stock Price Prediction</a></li>
+            </ul>
+        </nav>
+    </div>
+</body>
+</html>

@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f8ff; /* Light blue background */
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+h1 {
+    color: #003366; /* Dark blue for heading */
+    font-size: 2.5em;
+}
+
+p {
+    color: #555; /* Dark gray for paragraph */
+    font-size: 1.2em;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    margin: 0 15px;
+}
+
+a {
+    text-decoration: none;
+    color: #0066cc; /* Blue link color */
+    font-weight: bold;
+}
+
+a:hover {
+    color: #004999; /* Darker blue on hover */
+}

@@ -87,6 +87,39 @@ If you're introducing new algorithms or modifying existing ones, please update t
 ## 🧑‍🤝‍🧑 Community
 Join the discussion in the [Issues](https://github.com/your-repo/issues) section! Share your ideas, ask questions, and collaborate on exciting features with fellow contributors.
 
+## 🔄 Recent Updates
+
+### Changes in Flask Route for Stock Prediction:
+- The route `/predict_close` has been updated to handle both `GET` and `POST` requests.
+  - **GET** request: Renders the `stock.html` form when the user navigates to the prediction page.
+  - **POST** request: Processes the stock price prediction based on user input (Open, High, Low, and Volume).
+  
+Make sure to follow the updated code structure when adding new routes for similar tasks. The current structure is as follows:
+
+```python
+@app.route('/predict_close', methods=['GET', 'POST'])
+def predict_close():
+    if request.method == 'POST':
+        try:
+            inputs = [
+                float(request.form.get('Open')),
+                float(request.form.get('High')),
+                float(request.form.get('Low')),
+                float(request.form.get('Volume'))
+            ]
+
+            close_prediction = stock_model.predict(np.array([inputs]))[0] if stock_model else None
+
+            save_data(inputs, close_prediction)
+            retrain_model()
+
+            return str(round(close_prediction, 2)) if close_prediction is not None else "Error: Stock model not loaded."
+        except Exception as e:
+            return f"An error occurred: {e}"
+    # For GET request, render the stock.html page
+    return render_template('stock.html')
+
+
 ## 🎉 Thank You!
 Every contribution counts! Whether you’re fixing a bug, improving documentation, or building a new feature, we appreciate your efforts to make this project better.
 
