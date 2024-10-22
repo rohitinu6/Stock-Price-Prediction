@@ -151,5 +151,27 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 
 This project is licensed under the [MIT License](LICENSE).
 
+## 📱 Connect with Us
+
+<div align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/rohit-dubey-d/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/rohitinu6" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Email -->
+  <a href="mailto:rohitinu6@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rohit_dubey_003/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</div>
+
+
 
 
