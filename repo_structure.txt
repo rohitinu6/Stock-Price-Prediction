@@ -64,5 +64,6 @@
 │   ├── 6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg
 │   └── f23e9194-72de-438d-bd69-744667680d3e.jpeg
 ├── reduced_redundancy_stock_price_prediction.ipynb
+├── repo_structure.txt
 ├── requirements.txt
 └── stock_market(complete).ipynb
