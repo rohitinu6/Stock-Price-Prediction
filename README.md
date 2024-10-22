@@ -6,6 +6,40 @@
 
 </div>
 
+<img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### This project is now OFFICIALLY accepted for
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="80%">
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="80%">
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 📚 Table of Contents
+
+1. [🌟 Overview](#-overview)
+2. [🛠️ Features](#️features)
+3. [🔍 Algorithms Used](#-algorithms-used)
+4. [📊 Dataset](#-dataset)
+5. [📁 Project Structure](#-project-structure)
+6. [🚀 How to Run](#-how-to-run)
+7. [📈 Results](#-results)
+8. [📊 Performance Metrics](#-performance-metrics)
+9. [🔮 Future Work](#-future-work)
+10. [🏆 Conclusion](#-conclusion)
+11. [✍️ Author](#-author)
+12. [🤝 Contributing](#-contributing)
+13. [🌍 Our Valuable Contributors](#-our-valuable-contributors)
+14. [📝 License](#-license)
+
+---
 
 ## 🌟 Overview
 
