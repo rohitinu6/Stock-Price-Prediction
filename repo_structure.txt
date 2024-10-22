@@ -1,7 +1,3 @@
-## Project Structure ✨
-
-<!-- START_STRUCTURE -->
-```
 ├── ARIMA/
 │   ├── ARIMA_V2.ipynb
 │   ├── README.md
@@ -70,5 +66,3 @@
 ├── reduced_redundancy_stock_price_prediction.ipynb
 ├── requirements.txt
 └── stock_market(complete).ipynb
-```
-<!-- END_STRUCTURE -->
