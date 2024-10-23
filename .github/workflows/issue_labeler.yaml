@@ -21,7 +21,7 @@ jobs:
             https://api.github.com/repos/${{ github.repository }}/labels \
             -d '{
               "name": "gssoc-ext",
-              "color": "0E4075",
+              "color": "0e4075",
               "description": "GSSOC extended contribution"
             }'
 
@@ -41,7 +41,7 @@ jobs:
             https://api.github.com/repos/${{ github.repository }}/labels \
             -d '{
               "name": "hacktoberfest-accepted",
-              "color": "95D2AA",
+              "color": "95d2aa",
               "description": "Hacktoberfest contribution accepted"
             }'
 
@@ -51,7 +51,7 @@ jobs:
             https://api.github.com/repos/${{ github.repository }}/labels \
             -d '{
               "name": "level?",
-              "color": "5319E7",
+              "color": "5319e7",
               "description": "Placeholder for difficulty level"
             }'
 
