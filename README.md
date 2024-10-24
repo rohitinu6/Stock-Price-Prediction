@@ -155,7 +155,27 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 
 ## 🌍 Our Valuable Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+
+<div align="center">
+
+| Contributor                                                                                      | Contributor                                                                                      | Contributor                                                                                      | Contributor                                                                                      |
+|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| <img src="https://github.com/alo7lika.png" alt="Alolika" width="80"/> <br> <p align="center">[Alolika](https://github.com/alo7lika) 👩‍💻</p> | <img src="https://github.com/smog-root.png" alt="Smog Root" width="80"/> <br> <p align="center">[Smog Root](https://github.com/smog-root) 👨‍💻</p> | <img src="https://github.com/AYUSHI-SHA.png" alt="Ayushi Sha" width="80"/> <br> <p align="center">[Ayushi Sha](https://github.com/AYUSHI-SHA) 👩‍💻</p> | <img src="https://github.com/rohitinu6.png" alt="Rohit Inu" width="80"/> <br> <p align="center">[Rohit Inu](https://github.com/rohitinu6) 👨‍💻</p> |
+| <img src="https://github.com/shradiphylleia.png" alt="Shradi Phylleia" width="80"/> <br> <p align="center">[Shradi Phylleia](https://github.com/shradiphylleia) 👩‍💻</p> | <img src="https://github.com/Pankaj4152.png" alt="Pankaj" width="80"/> <br> <p align="center">[Pankaj](https://github.com/Pankaj4152) 👨‍💻</p> | <img src="https://github.com/shristirwt.png" alt="Shristi" width="80"/> <br> <p align="center">[Shristi](https://github.com/shristirwt) 👩‍💻</p> | <img src="https://github.com/features/actions.png" alt="GitHub Actions" width="80"/> <br> <p align="center">[GitHub Actions](https://github.com/features/actions) 👨‍💻</p> |
+| <img src="https://github.com/spandana2004.png" alt="Spandana" width="80"/> <br> <p align="center">[Spandana](https://github.com/spandana2004) 👩‍💻</p> | <img src="https://github.com/J-B-Mugundh.png" alt="Mugundh" width="80"/> <br> <p align="center">[Mugundh](https://github.com/J-B-Mugundh) 👨‍💻</p> | <img src="https://github.com/jvedsaqib.png" alt="Saqib" width="80"/> <br> <p align="center">[Saqib](https://github.com/jvedsaqib) 👨‍💻</p> | <img src="https://github.com/balbirs22.png" alt="Balbir Singh" width="80"/> <br> <p align="center">[Balbir Singh](https://github.com/balbirs22) 👨‍💻</p> |
+| <img src="https://github.com/RB137.png" alt="RB137" width="80"/> <br> <p align="center">[RB137](https://github.com/RB137) 👨‍💻</p> | <img src="https://github.com/DarshAgrawal14.png" alt="Darsh Agrawal" width="80"/> <br> <p align="center">[Darsh Agrawal](https://github.com/DarshAgrawal14) 👨‍💻</p> | <img src="https://github.com/lkksharma.png" alt="Lokesh Sharma" width="80"/> <br> <p align="center">[Lokesh Sharma](https://github.com/lkksharma) 👨‍💻</p> | <img src="https://github.com/abhishekHegde2000.png" alt="Abhishek Hegde" width="80"/> <br> <p align="center">[Abhishek Hegde](https://github.com/abhishekHegde2000) 👨‍💻</p> |
+| <img src="https://github.com/praveenarjun.png" alt="Praveen Arjun" width="80"/> <br> <p align="center">[Praveen Arjun](https://github.com/praveenarjun) 👨‍💻</p> | <img src="https://github.com/KirtiPratihar.png" alt="Kirti Pratihar" width="80"/> <br> <p align="center">[Kirti Pratihar](https://github.com/KirtiPratihar) 👩‍💻</p> | <img src="https://github.com/Maryam0330.png" alt="Maryam" width="80"/> <br> <p align="center">[Maryam](https://github.com/Maryam0330) 👩‍💻</p> | <img src="https://github.com/priyansh985.png" alt="Priyansh" width="80"/> <br> <p align="center">[Priyansh](https://github.com/priyansh985) 👨‍💻</p> |
+| <img src="https://github.com/kundana29.png" alt="Kundana" width="80"/> <br> <p align="center">[Kundana](https://github.com/kundana29) 👩‍💻</p> | <img src="https://github.com/SimranShaikh20.png" alt="Simran Shaikh" width="80"/> <br> <p align="center">[Simran Shaikh](https://github.com/SimranShaikh20) 👩‍💻</p> | <img src="https://github.com/sakshamsaraf23.png" alt="Saksham Saraf" width="80"/> <br> <p align="center">[Saksham Saraf](https://github.com/sakshamsaraf23) 👨‍💻</p> | <img src="https://github.com/sapnilmodak.png" alt="Sapnil Modak" width="80"/> <br> <p align="center">[Sapnil Modak](https://github.com/sapnilmodak) 👨‍💻</p> |
+| <img src="https://github.com/Dipanita45.png" alt="Dipanita" width="80"/> <br> <p align="center">[Dipanita](https://github.com/Dipanita45) 👩‍💻</p> | <img src="https://github.com/murtaza-sadri-19.png" alt="Murtaza Sadri" width="80"/> <br> <p align="center">[Murtaza Sadri](https://github.com/murtaza-sadri-19) 👨‍💻</p> | <img src="https://github.com/archanasingh11.png" alt="Archana Singh" width="80"/> <br> <p align="center">[Archana Singh](https://github.com/archanasingh11) 👩‍💻</p> |
+
+</div>
+
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
+
+We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
+
+**Let's continue to build great things together! 🚀**
+
 
 ## 📝 License
 
