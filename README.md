@@ -160,7 +160,7 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 
 </div>
 
-## 🎉 Thank You to All Our Amazing Contributors! 🎉
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
 
 We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
 
