@@ -20,12 +20,24 @@ def get_closed_prs():
     if GITHUB_TOKEN:
         headers = {"Authorization": f"token {GITHUB_TOKEN}"}
     
-    response = requests.get(API_URL, headers=headers)
-    
-    if response.status_code != 200:
-        raise Exception(f"Failed to fetch PRs: {response.status_code} {response.text}")
-    
-    return response.json()
+    prs = []
+    page = 1
+    while True:
+        response = requests.get(f"{API_URL}&page={page}", headers=headers)
+        
+        if response.status_code != 200:
+            raise Exception(f"Failed to fetch PRs: {response.status_code} {response.text}")
+        
+        page_prs = response.json()
+        
+        # Break the loop if there are no more PRs
+        if not page_prs:
+            break
+            
+        prs.extend(page_prs)  # Add fetched PRs to the list
+        page += 1  # Increment page number for next request
+
+    return prs
 
 leaderboard = defaultdict(lambda: {"points": 0, "avatar_url": ""})
 
@@ -33,16 +45,15 @@ prs = get_closed_prs()
 
 # Loop through each PR and calculate points based on the labels
 for pr in prs:
-    user = pr['user']['login']  # Get the username
-    avatar_url = pr['user']['avatar_url']  # Get the avatar URL
-    labels = pr['labels']  # Get the labels associated with the PR
-
-    # Loop through labels and add points based on the level
+    user = pr['user']['login']  
+    avatar_url = pr['user']['avatar_url'] 
+    labels = pr['labels'] 
+    
     for label in labels:
         label_name = label['name']
         if label_name in points_map:
             leaderboard[user]["points"] += points_map[label_name]
-            leaderboard[user]["avatar_url"] = avatar_url  # Store avatar URL
+            leaderboard[user]["avatar_url"] = avatar_url  
 
 # Generate the leaderboard in markdown format
 def generate_leaderboard_md(leaderboard):
@@ -63,4 +74,3 @@ def generate_leaderboard_md(leaderboard):
 leaderboard_md = generate_leaderboard_md(leaderboard)
 with open('leaderboard.md', 'w') as f:
     f.write(leaderboard_md)
-
