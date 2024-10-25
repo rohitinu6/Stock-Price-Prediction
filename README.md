@@ -8,6 +8,13 @@
 
 <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 📈 GitHub Repository Stats
+| 🌟 **Stars** | 🍴 **Forks** | 🐛 **Issues** | 🔔 **Open PRs** | 🔕 **Closed PRs** | 🛠️ **Languages** | ✅ **Contributors** |
+|--------------|--------------|---------------|-----------------|------------------|------------------|------------------|
+| ![GitHub stars](https://img.shields.io/github/stars/rohitinu6/Stock-Price-Prediction) | ![forks](https://img.shields.io/github/forks/rohitinu6/Stock-Price-Prediction) | ![issues](https://img.shields.io/github/issues/rohitinu6/Stock-Price-Prediction?color=32CD32) | ![pull requests](https://img.shields.io/github/issues-pr/rohitinu6/Stock-Price-Prediction?color=FFFF8F) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rohitinu6/Stock-Price-Prediction?color=20B2AA) | ![Languages](https://img.shields.io/github/languages/count/rohitinu6/Stock-Price-Prediction?color=20B2AA) | ![Contributors](https://img.shields.io/github/contributors/rohitinu6/Stock-Price-Prediction?color=00FA9A) |
+
+<img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### This project is now OFFICIALLY accepted for
 
 <div align="center">
@@ -21,6 +28,10 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## ✨ Project Structure
+
+Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 
 ## 📚 Table of Contents
 
@@ -112,16 +123,15 @@ The sequence of all the algorithms used is as follows:
 ## 📊 Performance Metrics
 
 The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
-
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/5c3d986f-ef0f-453e-8f5a-e43193489174)
+![image](images\f23e9194-72de-438d-bd69-744667680d3e.jpeg)
 
 The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/50b9a8ae-72c6-4927-8356-18af1f1cacfb)
+![image](images\085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg)
 
 The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](https://github.com/rohitinu6/Stock-Price-Prediction/assets/113301503/4ddab02c-6fa4-414e-b14b-6642dbe6183b)
+![image](images\6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg)
 
 
 ## 🔮 Future Work
