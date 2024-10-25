@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://api.vaunt.dev/v1/github/entities/rohitinu6/repositories/Stock-Price-Prediction/contributors?format=svg&limit=54" width="700" height="250" />
+</p>
+
 <div align="center">
 
 ##  📈 Stock Price Prediction 
