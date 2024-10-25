@@ -1,10 +1,11 @@
+import os
 import requests
 from collections import defaultdict
 
 # GitHub API URL for closed pull requests
 API_URL = "https://api.github.com/repos/rohitinu6/Stock-Price-Prediction/pulls?state=closed"
 
-GITHUB_TOKEN = None
+GITHUB_TOKEN = os.getenv("GH_TOKEN")
 
 # Points mapping based on the label names
 points_map = {
@@ -13,7 +14,7 @@ points_map = {
     "level3": 45
 }
 
-# Function to fetch closed pull requests
+# Function to fetch closed pull requests with pagination
 def get_closed_prs():
     headers = {}
     
@@ -30,7 +31,6 @@ def get_closed_prs():
         
         page_prs = response.json()
         
-        # Break the loop if there are no more PRs
         if not page_prs:
             break
             
@@ -55,7 +55,7 @@ for pr in prs:
             leaderboard[user]["points"] += points_map[label_name]
             leaderboard[user]["avatar_url"] = avatar_url  
 
-# Generate the leaderboard in markdown format
+# Function to generate the leaderboard in markdown format
 def generate_leaderboard_md(leaderboard):
     sorted_leaderboard = sorted(leaderboard.items(), key=lambda x: x[1]["points"], reverse=True)
     
@@ -72,5 +72,9 @@ def generate_leaderboard_md(leaderboard):
 
 # Generate the leaderboard markdown and save it to a file
 leaderboard_md = generate_leaderboard_md(leaderboard)
+
+# Save the leaderboard to leaderboard.md
 with open('leaderboard.md', 'w') as f:
     f.write(leaderboard_md)
+
+print("Leaderboard updated successfully!")
