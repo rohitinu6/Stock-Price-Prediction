@@ -24,7 +24,7 @@ jobs:
 
       - name: Run leaderboard update script
         run: |
-          python .github/scripts/update_structure.py
+          python .github/scripts/update_leaderboard.py
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token
           GITHUB_REPOSITORY: ${{ github.repository }}  # Repository info
