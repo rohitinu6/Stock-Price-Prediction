@@ -16,15 +16,18 @@ jobs:
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-          
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests PyGithub
-      
+
       - name: Run leaderboard update script
         run: |
           python .github/scripts/update_structure.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # GitHub token
+          GITHUB_REPOSITORY: ${{ github.repository }}  # Repository info
 
       - name: Commit and push changes
         run: |
