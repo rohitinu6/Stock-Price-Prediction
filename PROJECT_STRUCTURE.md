@@ -5,7 +5,11 @@
 ├── ARIMA/
 │   ├── ARIMA_V2.ipynb
 │   ├── README.md
-│   └── hybrid.ipynb
+│   ├── hybrid.ipynb
+│   └── saved_model/
+│       ├── arima_model.pkl
+│       ├── lstm_model.h5
+│       └── scaler.pkl
 ├── Contributing.md
 ├── Data/
 │   ├── SBI Test data.csv
@@ -76,11 +80,14 @@
 ├── reduced_redundancy_stock_price_prediction.ipynb
 ├── repo_structure.txt
 ├── requirements.txt
+├── sentiment_model.h5
 ├── static/
 │   └── css/
 │       ├── home.css
 │       └── stock.css
+├── stock_data.csv
 ├── stock_market(complete).ipynb
+├── stock_sentimental.ipynb
 └── templates/
     ├── home.html
     └── stock.html
