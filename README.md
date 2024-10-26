@@ -57,16 +57,6 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 This project focuses on predicting the stock prices of **The State Bank Of India** using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
 
 
-      <tr>
-          <td><img alt="Stars" src="https://img.shields.io/github/stars/rohitinu6/Stock-Price-Prediction?style=flat&logo=github"/></td>
-          <td><img alt="Forks" src="https://img.shields.io/github/forks/rohitinu6/Stock-Price-Prediction?style=flat&logo=github"/></td>
-          <td><img alt="Issues" src="https://img.shields.io/github/issues/rohitinu6/Stock-Price-Prediction?style=flat&logo=github"/></td>
-          <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/rohitinu6/Stock-Price-Prediction?style=flat&logo=github"/></td>
-          <td><img alt="Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/rohitinu6/Stock-Price-Prediction?style=flat&color=critical&logo=github"/></td>
-      </tr>
-    </tbody>
-</table>
-
 ## 🛠️ Features
 
 - Utilizes various regression algorithms for stock price prediction.
