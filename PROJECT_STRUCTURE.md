@@ -5,7 +5,11 @@
 ├── ARIMA/
 │   ├── ARIMA_V2.ipynb
 │   ├── README.md
-│   └── hybrid.ipynb
+│   ├── hybrid.ipynb
+│   └── saved_model/
+│       ├── arima_model.pkl
+│       ├── lstm_model.h5
+│       └── scaler.pkl
 ├── Contributing.md
 ├── Data/
 │   ├── SBI Test data.csv
@@ -30,6 +34,7 @@
 │   ├── reduced_redundancy_stock_price_prediction.ipynb
 │   └── requirements.txt
 ├── InvestWise - Stock Prediction Model.png
+├── LICENSE
 ├── Market Trend Classification Model/
 │   ├── Market Trend Classification Model.ipynb
 │   ├── MarketTrend Analytics - Classification Model.png
@@ -52,7 +57,9 @@
 ├── SBIN.csv
 ├── Stock_Price_Prediction(Updated).ipynb
 ├── Stock_Price_Prediction.ipynb
+├── Stock_Recommendation.ipynb
 ├── Stock_prediction_Data_Analysis.ipynb
+├── Updated_SBIN.csv
 ├── VWAP_included_stock_price_prediction.ipynb
 ├── buy_sell_recommendation_system.ipynb
 ├── candlestick_chart.html
@@ -67,9 +74,22 @@
 │   ├── 085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg
 │   ├── 6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg
 │   └── f23e9194-72de-438d-bd69-744667680d3e.jpeg
+├── main.py
+├── nifty_500.csv
+├── prediction.pkl
 ├── reduced_redundancy_stock_price_prediction.ipynb
 ├── repo_structure.txt
 ├── requirements.txt
-└── stock_market(complete).ipynb
+├── sentiment_model.h5
+├── static/
+│   └── css/
+│       ├── home.css
+│       └── stock.css
+├── stock_data.csv
+├── stock_market(complete).ipynb
+├── stock_sentimental.ipynb
+└── templates/
+    ├── home.html
+    └── stock.html
 ```
 <!-- END_STRUCTURE -->
