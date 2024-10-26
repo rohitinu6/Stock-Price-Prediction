@@ -163,7 +163,16 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 
 ## 🌍 Our Valuable Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+<p align="center">
+    <img src="https://api.vaunt.dev/v1/github/entities/rohitinu6/repositories/Stock-Price-Prediction/contributors?format=svg&limit=54" width="700" height="250" />
+</p>
+
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
+
+We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
+
+**Let's continue to build great things together! 🚀**
+
 
 ## 📝 License
 
