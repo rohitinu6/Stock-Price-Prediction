@@ -11,6 +11,10 @@
 │   ├── SBI Test data.csv
 │   ├── SBI Train data.csv
 │   └── SBIN.csv
+├── Data Analysis/
+│   ├── SBI Stock Analysis .png
+│   ├── SBI Stock Analysis Updated.pptx
+│   └── SBI Stock Analysis Updated.twbx
 ├── Financial Environment Segmentation/
 │   ├── Financial Environment Segmentation.ipynb
 │   ├── Financial Insights - Market Segmentation.png
