@@ -51,10 +51,10 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 14. [📝 License](#-license)
 
 ---
+## 🌞 Overview
+This project aims to predict the stock prices of **The State Bank of India (SBI)** using various machine learning regression algorithms. By leveraging historical stock data sourced from Yahoo Finance, this project provides insights into the performance of different regression models in stock price prediction for SBI. 
 
-## 🌟 Overview
-
-This project focuses on predicting the stock prices of **The State Bank Of India** using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
+The primary objective is to compare model accuracy and performance metrics, such as RMSE, MAE, and MAPE, across multiple algorithms, ultimately identifying the most suitable regression approach for stock price forecasting.
 
 ## 🛠️ Features
 
