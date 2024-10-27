@@ -19,6 +19,7 @@ def get_closed_prs():
     headers = {}
     
     if GITHUB_TOKEN:
+        print(GITHUB_TOKEN)
         headers = {"Authorization": f"token {GITHUB_TOKEN}"}
     
     prs = []
