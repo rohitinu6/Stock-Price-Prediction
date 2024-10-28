@@ -81,6 +81,7 @@
 ├── repo_structure.txt
 ├── requirements.txt
 ├── sentiment_model.h5
+├── sentiment_model.keras
 ├── static/
 │   └── css/
 │       ├── home.css
