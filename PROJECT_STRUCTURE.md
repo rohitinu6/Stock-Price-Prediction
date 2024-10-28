@@ -15,6 +15,10 @@
 │   ├── SBI Test data.csv
 │   ├── SBI Train data.csv
 │   └── SBIN.csv
+├── Data Analysis/
+│   ├── SBI Stock Analysis .png
+│   ├── SBI Stock Analysis Updated.pptx
+│   └── SBI Stock Analysis Updated.twbx
 ├── Financial Environment Segmentation/
 │   ├── Financial Environment Segmentation.ipynb
 │   ├── Financial Insights - Market Segmentation.png
@@ -87,6 +91,7 @@
 │       └── stock.css
 ├── stock_data.csv
 ├── stock_market(complete).ipynb
+├── stock_price_prediction_app.py
 ├── stock_sentimental.ipynb
 └── templates/
     ├── home.html
