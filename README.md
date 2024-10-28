@@ -8,6 +8,13 @@
 
 <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
+## 📈 GitHub Repository Stats
+| 🌟 **Stars** | 🍴 **Forks** | 🐛 **Issues** | 🔔 **Open PRs** | 🔕 **Closed PRs** | 🛠️ **Languages** | ✅ **Contributors** |
+|--------------|--------------|---------------|-----------------|------------------|------------------|------------------|
+| ![GitHub stars](https://img.shields.io/github/stars/rohitinu6/Stock-Price-Prediction) | ![forks](https://img.shields.io/github/forks/rohitinu6/Stock-Price-Prediction) | ![issues](https://img.shields.io/github/issues/rohitinu6/Stock-Price-Prediction?color=32CD32) | ![pull requests](https://img.shields.io/github/issues-pr/rohitinu6/Stock-Price-Prediction?color=FFFF8F) | ![Closed PRs](https://img.shields.io/github/issues-pr-closed/rohitinu6/Stock-Price-Prediction?color=20B2AA) | ![Languages](https://img.shields.io/github/languages/count/rohitinu6/Stock-Price-Prediction?color=20B2AA) | ![Contributors](https://img.shields.io/github/contributors/rohitinu6/Stock-Price-Prediction?color=00FA9A) |
+
+<img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ### This project is now OFFICIALLY accepted for
 
 <div align="center">
@@ -21,6 +28,10 @@
 <br>
 
 <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## ✨ Project Structure
+
+Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 
 ## 📚 Table of Contents
 
@@ -144,7 +155,16 @@ We welcome contributions to this project! Please see our [Contributing.md](./CON
 
 ## 🌍 Our Valuable Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction)](https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors)
+<p align="center">
+    <img src="https://api.vaunt.dev/v1/github/entities/rohitinu6/repositories/Stock-Price-Prediction/contributors?format=svg&limit=54" width="700" height="250" />
+</p>
+
+### 🎉 Thank You to All Our Amazing Contributors! 🎉
+
+We are incredibly grateful for your dedication and hard work. Your contributions have been invaluable in making this project a success. Thank you for being a part of our journey!
+
+**Let's continue to build great things together! 🚀**
+
 
 ## 📝 License
 
