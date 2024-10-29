@@ -73,6 +73,7 @@
 ├── images/
 │   ├── 085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg
 │   ├── 6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg
+│   ├── Screenshot 2024-10-25 194943.png
 │   └── f23e9194-72de-438d-bd69-744667680d3e.jpeg
 ├── main.py
 ├── nifty_500.csv
