@@ -1,8 +1,8 @@
 <div align="center">
 
-##  📈 Stock Price Prediction 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=4000&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%93%88+Stock+Price+Prediction" alt="Typing SVG" /></a>
 
-![Stock Prediction Model](https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/InvestWise%20-%20Stock%20Prediction%20Model.png)
+![Stock Prediction Model](https://github.com/Karthik3904/Stock-Price-Prediction/blob/update-readme/images/Screenshot%202024-10-25%20194943.png)
 
 </div>
 
@@ -56,6 +56,7 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 
 This project focuses on predicting the stock prices of **The State Bank Of India** using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
 
+
 ## 🛠️ Features
 
 - Utilizes various regression algorithms for stock price prediction.
@@ -96,14 +97,21 @@ The dataset used in this project is sourced from Yahoo Finance and includes hist
 📋 requirements.txt # List of dependencies needed to run the project.
 
 
-## 🚀 How to Run
+## 🚀 How to Run `main.py`
+**Steps**:
+1.**If Flask is not installed, install it**:
+  ```bash
+  pip install flask
+  ```
+2.**Install dependencies using**:
+  ```bash
+  pip install -r requirements.txt
+  ```
+3.**Run the Flask app**:
+  ```bash
+  python main.py
+  ```
 
-1. Install dependencies using:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Execute the notebooks in the `notebooks/` folder in the given order.
-3. Run the scripts in the `src/` folder for further analysis or model training.
 
 ## 📈 Results
 
