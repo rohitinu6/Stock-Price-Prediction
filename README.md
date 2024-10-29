@@ -123,15 +123,17 @@ The sequence of all the algorithms used is as follows:
 ## 📊 Performance Metrics
 
 The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
-![image](images/f23e9194-72de-438d-bd69-744667680d3e.jpeg)
+<img src="images/f23e9194-72de-438d-bd69-744667680d3e.jpeg" alt="Description" width="400" height="300">
+
 
 The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](images/085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg)
+<img src="images/085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg" alt="Description" width="400" height="300">
+
 
 The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](images/6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg)
+<img src="images/6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg" alt="Description" width="400" height="300">
 
 
 ## 🔮 Future Work
