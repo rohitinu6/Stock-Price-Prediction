@@ -17,13 +17,16 @@
 
 ### This project is now OFFICIALLY accepted for
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="80%">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="90%" height="90%">
+    </td>
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -51,10 +54,10 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 14. [📝 License](#-license)
 
 ---
+## 🌞 Overview
+This project aims to predict the stock prices of **The State Bank of India (SBI)** using various machine learning regression algorithms. By leveraging historical stock data sourced from Yahoo Finance, this project provides insights into the performance of different regression models in stock price prediction for SBI. 
 
-## 🌟 Overview
-
-This project focuses on predicting the stock prices of **The State Bank Of India** using machine learning regression algorithms. The dataset was collected from Yahoo Finance and contains historical stock data.
+The primary objective is to compare model accuracy and performance metrics, such as RMSE, MAE, and MAPE, across multiple algorithms, ultimately identifying the most suitable regression approach for stock price forecasting.
 
 
 ## 🛠️ Features
@@ -131,15 +134,17 @@ The sequence of all the algorithms used is as follows:
 ## 📊 Performance Metrics
 
 The **Root Mean Square Error (RMSE)** of all the following 10 Regression Algorithms is provided below: 
-![image](images\f23e9194-72de-438d-bd69-744667680d3e.jpeg)
+<img src="images/f23e9194-72de-438d-bd69-744667680d3e.jpeg" alt="Performance-Metrices" width="400" height="300">
+
 
 The **Mean Absolute Error (MAE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](images\085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg)
+<img src="images/085ee2d1-3544-4bed-a558-5b0b801e806b.jpeg" alt="Performance-Metrices" width="400" height="300">
+
 
 The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression Algorithms is provided below: 
 
-![image](images\6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg)
+<img src="images/6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg" alt="Performance-Metrices" width="400" height="300">
 
 
 ## 🔮 Future Work
