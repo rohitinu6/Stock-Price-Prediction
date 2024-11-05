@@ -17,13 +17,16 @@
 
 ### This project is now OFFICIALLY accepted for
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="80%">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="80%">
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png" alt="GSSoC 2024 Extd" width="90%" height="90%">
+    </td>
+  <td align="center">
+      <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
+  </tr>
+</table>
 
 <br>
 
