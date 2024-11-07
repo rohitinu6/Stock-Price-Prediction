@@ -30,6 +30,7 @@
 │   └── hacktober.png
 ├── Intel_Optimized/
 │   ├── ARIMA_V2.ipynb
+│   ├── Intel_Optimization.md
 │   ├── Stock_Price_Prediction_1.ipynb
 │   ├── Stock_prediction_Data_Analysis.ipynb
 │   ├── buy_sell_recommendation_system.ipynb
@@ -37,7 +38,6 @@
 │   ├── images/
 │   │   ├── modin-and-pandas-performance.png
 │   │   └── scikit-learn-acceleration.png
-│   ├── optimization.md
 │   ├── readme.md
 │   ├── reduced_redundancy_stock_price_prediction.ipynb
 │   └── requirements.txt
