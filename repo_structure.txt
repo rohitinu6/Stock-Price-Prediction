@@ -30,6 +30,10 @@
 │   ├── Stock_prediction_Data_Analysis.ipynb
 │   ├── buy_sell_recommendation_system.ipynb
 │   ├── hybrid.ipynb
+│   ├── images/
+│   │   ├── modin-and-pandas-performance.png
+│   │   └── scikit-learn-acceleration.png
+│   ├── optimization.md
 │   ├── readme.md
 │   ├── reduced_redundancy_stock_price_prediction.ipynb
 │   └── requirements.txt
