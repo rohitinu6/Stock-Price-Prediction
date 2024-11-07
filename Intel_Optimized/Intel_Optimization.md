@@ -47,7 +47,7 @@ Accelerated machine learning algorithms for:
 ## 🛠️ **Usage**
 
 1. **Clone the repository.**
-2. **Install [Intel oneAPI AI Analytics Toolkit](https://github.com/oneapi-src/oneAPI-AI-Analytics).**
+2. **Install [Intel oneAPI AI Analytics Toolkit](https://github.com/intel/aikit-operator).**
 3. **Install [Intel Distribution for scikit-learn](https://intel.github.io/scikit-learn-intelex/) and [Modin](https://modin.readthedocs.io/en/latest/).**
 4. **Build and run the optimized model using the provided instructions.**
 5. **Alternatively, you can install individual components using pip:**

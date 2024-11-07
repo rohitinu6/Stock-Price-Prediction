@@ -155,7 +155,7 @@ The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression
 
 ## 🔧 Optimization Techniques
 
-For detailed information on the optimization techniques used in this project, please refer to the [Optimization Techniques](./Intel_Optimized/optimization.md) document.
+We have applied several Intel-specific optimization techniques to enhance the performance of our models. For detailed information, please refer to the [Optimization Techniques](./Intel_Optimized/Intel_Optimization.md) document.
 
 ## 🔮 Future Work
 
