@@ -38,20 +38,27 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 
 ## 📚 Table of Contents
 
-1. [🌟 Overview](#-overview)
-2. [🛠️ Features](#️features)
-3. [🔍 Algorithms Used](#-algorithms-used)
-4. [📊 Dataset](#-dataset)
-5. [📁 Project Structure](#-project-structure)
-6. [🚀 How to Run](#-how-to-run)
-7. [📈 Results](#-results)
-8. [📊 Performance Metrics](#-performance-metrics)
-9. [🔮 Future Work](#-future-work)
-10. [🏆 Conclusion](#-conclusion)
-11. [✍️ Author](#-author)
-12. [🤝 Contributing](#-contributing)
-13. [🌍 Our Valuable Contributors](#-our-valuable-contributors)
-14. [📝 License](#-license)
+- [📈 GitHub Repository Stats](#-github-repository-stats)
+  - [This project is now OFFICIALLY accepted for](#this-project-is-now-officially-accepted-for)
+- [✨ Project Structure](#-project-structure)
+- [📚 Table of Contents](#-table-of-contents)
+- [🌞 Overview](#-overview)
+- [🛠️ Features](#️-features)
+- [🔍 Algorithms Used](#-algorithms-used)
+- [📊 Dataset](#-dataset)
+- [📁 Project Structure](#-project-structure-1)
+- [🚀 How to Run `main.py`](#-how-to-run-mainpy)
+- [📈 Results](#-results)
+- [📊 Performance Metrics](#-performance-metrics)
+- [🔧 Optimization Techniques](#-optimization-techniques)
+- [🔮 Future Work](#-future-work)
+- [🏆 Conclusion](#-conclusion)
+- [✍️ Author](#️-author)
+- [🤝 Contributing](#-contributing)
+- [🌍 Our Valuable Contributors](#-our-valuable-contributors)
+  - [🎉 Thank You to All Our Amazing Contributors! 🎉](#-thank-you-to-all-our-amazing-contributors-)
+- [📝 License](#-license)
+- [📱 Connect with Us](#-connect-with-us)
 
 ---
 ## 🌞 Overview
@@ -146,6 +153,9 @@ The **Mean Absolute Percentage Error (MAPE)** of all the following 10 Regression
 
 <img src="images/6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg" alt="Performance-Metrices" width="400" height="300">
 
+## 🔧 Optimization Techniques
+
+We have applied several Intel-specific optimization techniques to enhance the performance of our models. For detailed information, please refer to the [Optimization Techniques](./Intel_Optimized/Intel_Optimization.md) document.
 
 ## 🔮 Future Work
 
