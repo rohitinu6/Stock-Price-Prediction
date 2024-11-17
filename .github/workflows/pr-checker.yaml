@@ -42,8 +42,7 @@ if not re.search(r'Fixes #[0-9]+', pr_description):
     sys.exit(1)
 
 # Check if the PR title starts with FIX, FEAT, or DOC
-if not re.match(r'^(Fixes|Close|Closes|Closed|Fix|Fixed|Resolve|Resolves
-Resolved)', pr_title):
+if not re.match(r'^(Fixes|Close|Closes|Closed|Fix|Fixed|Resolve|Resolves|Resolved)', pr_title):
     print('The PR title should start with Fixes , Close, Closes, Closed , Fix , Fixed , Resolve , Resolves')
     sys.exit(1)
 
@@ -55,4 +54,3 @@ print('PR description and title are valid.')
 
       - name: Output result
         run: echo "All checks passed."
-        
