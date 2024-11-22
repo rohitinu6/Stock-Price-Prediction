@@ -98,6 +98,7 @@
 │       └── stock.css
 ├── stock_data.csv
 ├── stock_market(complete).ipynb
+├── stock_price_prediction_app.py
 ├── stock_sentimental.ipynb
 └── templates/
     ├── home.html
