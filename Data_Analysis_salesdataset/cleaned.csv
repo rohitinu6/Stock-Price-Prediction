@@ -1,0 +1,100 @@
+,City,Customer type,Gender,Product line,Offers,Tax,Total,Profit,Payment,Rating
+0,Hyderabad,Gold,Female,Health and Beauty,September,65.026,1300.52,122.83,Ewallet,9.1
+1,Mumbai,Normal,Female,Electronic Accessories,July,175.0205,3500.41,746.4,Cash,9.6
+2,Delhi,Silver,Male,Home and Lifestyle,July,15.0105,300.21,24.31,Credit card,7.4
+3,Chennai,Platinum,Male,Health and Beauty,September,44.755,895.1,165.76,Ewallet,8.4
+4,Chennai,Silver,Male,Sports,March,41.718925,834.3785,104.17,Ewallet,5.3
+5,Hyderabad,Normal,Male,Electronic Accessories,October,100.0255,2000.51,397.73,Ewallet,4.1
+6,Delhi,Silver,Female,Electronic Accessories,November,49.9625,999.25,213.04,Ewallet,5.8
+7,Mumbai,Gold,Female,Home and Lifestyle,July,38.619,772.38,75.6,Ewallet,8.0
+8,Delhi,Gold,Female,Health and Beauty,September,78.6205,1572.41,172.52,Credit card,7.2
+9,Bangalore,Silver,Female,Sports,March,97.11,1942.2,164.52,Credit card,5.9
+10,Bangalore,Silver,Female,Fashion Accessories,August,38.0408,760.816,57.92,Ewallet,4.5
+11,Hyderabad,Normal,Male,Health and Beauty,March,48.1175,962.35,102.04,Cash,6.8
+12,Delhi,Gold,Female,Electronic Accessories,November,123.324375,2466.4875,434.75,Ewallet,7.1
+13,Hyderabad,Normal,Male,Food and Beverages,December,22.67475,453.495,31.9,Ewallet,8.2
+14,Delhi,Normal,Female,Health and Beauty,September,37.4745,749.49,71.8,Cash,5.7
+15,Bangalore,Platinum,Female,Sports,March,45.0218,900.436,62.32,Cash,4.5
+16,Hyderabad,Normal,Female,Health and Beauty,September,40.331775,806.6355,182.51,Credit card,9.1
+17,Chennai,Gold,Male,Sports,March,77.87215,1557.443,235.66,Credit card,6.9
+18,Chennai,Normal,Male,Food and Beverages,December,8.610525,172.2105,16.01,Credit card,8.6
+19,Hyderabad,Gold,Female,Health and Beauty,March,42.0315,840.63,50.6,Ewallet,4.4
+20,Mumbai,Normal,Female,Electronic Accessories,October,77.0855,1541.71,330.2,Ewallet,4.8
+21,Bangalore,Normal,Male,Health and Beauty,September,38.85685,777.137,63.94,Ewallet,5.1
+22,Bangalore,Platinum,Female,Home and Lifestyle,July,34.536,690.72,66.4,Credit card,4.4
+23,Delhi,Gold,Male,Electronic Accessories,November,40.522,810.44,172.8,Ewallet,9.9
+24,Hyderabad,Normal,Male,Sports,March,13.959225,279.1845,25.89,Ewallet,6.0
+25,Hyderabad,Gold,Female,Home and Lifestyle,July,60.26,1205.2,150.72,Credit card,8.5
+26,Bangalore,Silver,Male,Fashion Accessories,August,71.257,1425.14,53.52,Cash,6.7
+27,Delhi,Gold,Female,Fashion Accessories,August,59.20535,1184.107,75.34,Credit card,7.7
+28,Delhi,Silver,Female,Sports,March,32.1945,643.89,41.8,Cash,9.6
+29,Delhi,Normal,Male,Health and Beauty,September,11.760525,235.2105,24.01,Ewallet,7.4
+30,Bangalore,Gold,Male,Fashion Accessories,August,47.059125,941.1825,170.65,Credit card,4.8
+31,Hyderabad,Platinum,Female,Sports,March,36.888075,737.7615,102.63,Cash,4.5
+32,Bangalore,Normal,Male,Fashion Accessories,August,35.1876,703.752,70.24,Cash,8.3
+33,Delhi,Normal,Male,Health and Beauty,September,101.0409,2020.818,193.16,Credit card,5.1
+34,Delhi,Silver,Female,Food and Beverages,December,20.8782,417.564,97.68,Ewallet,7.5
+35,Chennai,Normal,Female,Sports,March,84.6263,1692.526,68.12,Ewallet,6.8
+36,Delhi,Gold,Male,Sports,March,61.43775,1228.755,313.1,Ewallet,7.0
+37,Delhi,Gold,Female,Electronic Accessories,November,87.2658,1745.316,447.92,Ewallet,4.7
+38,Mumbai,Platinum,Female,Health and Beauty,September,30.5664,611.328,43.36,Ewallet,7.6
+39,Bangalore,Normal,Male,Home and Lifestyle,October,12.6504,253.008,40.96,Cash,7.7
+40,Bangalore,Gold,Female,Home and Lifestyle,July,45.5028,910.056,86.72,Ewallet,7.9
+41,Mumbai,Silver,Female,Home and Lifestyle,July,57.89155,1157.831,112.22,Cash,6.3
+42,Bangalore,Normal,Female,Sports,March,52.5728,1051.456,414.72,Cash,5.6
+43,Mumbai,Gold,Female,Health and Beauty,March,41.454,829.08,78.6,Credit card,7.6
+44,Chennai,Platinum,Male,Health and Beauty,September,22.51385,450.277,30.74,Cash,7.2
+45,Hyderabad,Normal,Female,Electronic Accessories,October,145.7316,2914.632,375.84,Cash,9.5
+46,Bangalore,Silver,Male,Health and Beauty,August,26.786025,535.7205,110.21,Credit card,8.4
+47,Chennai,Silver,Female,Food and Beverages,December,9.454725,189.0945,80.09,Ewallet,4.1
+48,Chennai,Platinum,Male,Electronic Accessories,November,59.51295,1190.259,113.58,Credit card,8.1
+49,Hyderabad,Platinum,Female,Fashion Accessories,August,43.38075,867.615,126.3,Ewallet,7.9
+50,Hyderabad,Gold,Male,Food and Beverages,December,33.5895,671.79,89.8,Cash,9.5
+51,Delhi,Silver,Female,Food and Beverages,December,11.704875,234.0975,22.95,Cash,8.5
+52,Delhi,Silver,Female,Fashion Accessories,August,37.9027,758.054,71.48,Ewallet,6.5
+53,Mumbai,Platinum,Male,Food and Beverages,December,29.560075,591.2015,150.43,Credit card,6.1
+54,Bangalore,Normal,Male,Home and Lifestyle,July,16.7968,335.936,42.32,Ewallet,7.02680412371134
+55,Mumbai,Normal,Female,Electronic Accessories,October,161.0116,3220.232,687.84,Cash,8.2
+56,Delhi,Silver,Male,Home and Lifestyle,July,46.7557,935.114,88.68,Cash,5.8
+57,Chennai,Silver,Male,Health and Beauty,September,37.632,752.64,71.8,Ewallet,6.6
+58,Hyderabad,Platinum,Female,Home and Lifestyle,July,37.98375,759.675,73.5,Ewallet,5.4
+59,Hyderabad,Silver,Male,Electronic Accessories,October,96.04215,1920.843,283.66,Cash,9.3
+60,Chennai,Gold,Female,Sports,March,38.54655,770.931,74.22,Credit card,10.0
+61,Mumbai,Silver,Male,Home and Lifestyle,July,17.55495,351.099,44.38,Ewallet,7.0
+62,Bangalore,Gold,Female,Sports,March,26.020575,520.4115,95.63,Ewallet,10.0
+63,Delhi,Gold,Female,Sports,March,83.00025,1660.005,158.1,Credit card,8.6
+64,Bangalore,Silver,Male,Health and Beauty,September,15.9054,318.108,82.96,Cash,7.6
+65,Delhi,Platinum,Male,Health and Beauty,August,48.33175,966.635,158.7,Cash,8.5
+66,Chennai,Gold,Female,Health and Beauty,July,35.36435,707.287,66.94,Ewallet,9.6
+67,Bangalore,Gold,Female,Fashion Accessories,August,30.74715,614.943,85.66,Ewallet,9.9
+68,Delhi,Silver,Male,Sports,March,41.35425,827.085,87.7,Ewallet,6.4
+69,Delhi,Silver,Female,Health and Beauty,September,70.962325,1419.2465,94.4,Cash,4.3
+70,Mumbai,Silver,Male,Food and Beverages,December,46.977,939.54,94.8,Credit card,9.6
+71,Delhi,Gold,Male,Fashion Accessories,August,32.613,652.26,62.2,Cash,5.9
+72,Bangalore,Silver,Female,Food and Beverages,December,7.6419,152.838,15.56,Ewallet,4.0
+73,Mumbai,Platinum,Female,Electronic Accessories,October,39.01165,780.233,45.46,Cash,8.7
+74,Delhi,Platinum,Male,Home and Lifestyle,July,35.281575,705.6315,72.03,Ewallet,9.4
+75,Mumbai,Platinum,Female,Electronic Accessories,November,76.86625,1537.325,416.5,Credit card,5.4
+76,Mumbai,Silver,Female,Fashion Accessories,August,23.1714,463.428,41.36,Credit card,8.6
+77,Delhi,Silver,Female,Fashion Accessories,August,9.454725,189.0945,18.09,Credit card,5.7
+78,Mumbai,Gold,Female,Food and Beverages,December,41.11275,822.255,73.1,Ewallet,6.6
+79,Mumbai,Gold,Female,Health and Beauty,October,53.29975,1065.995,101.9,Cash,6.0
+80,Mumbai,Silver,Female,Health and Beauty,September,31.24485,624.897,95.14,Credit card,5.5
+81,Bangalore,Gold,Female,Food and Beverages,March,15.2271,304.542,90.04,Ewallet,6.4
+82,Mumbai,Gold,Female,Food and Beverages,September,8.085,161.7,15.24,Ewallet,6.6
+83,Hyderabad,Platinum,Female,Food and Beverages,December,16.8756,337.512,31.44,Credit card,8.3
+84,Chennai,Gold,Male,Sports,March,12.838875,256.7775,44.55,Cash,6.6
+85,Chennai,Normal,Female,Sports,March,30.52455,610.491,81.42,Ewallet,4.0
+86,Mumbai,Silver,Male,Fashion Accessories,August,20.0865,401.73,32.6,Cash,9.9
+87,Delhi,Gold,Male,Food and Beverages,December,18.14715,362.943,35.66,Credit card,7.3
+88,Delhi,Gold,Male,Sports,March,47.729675,954.5935,42.47,Cash,5.7
+89,Chennai,Silver,Female,Health and Beauty,September,24.25185,485.037,61.94,Cash,6.1
+90,Hyderabad,Platinum,Female,Home and Lifestyle,July,99.0498,1980.996,189.52,Cash,7.02680412371134
+91,Chennai,Gold,Female,Sports,March,23.5515,471.03,48.6,Ewallet,8.2
+92,Delhi,Gold,Female,Sports,March,80.52765,1610.553,153.86,Ewallet,5.1
+93,Bangalore,Silver,Male,Health and Beauty,September,30.4101,608.202,79.24,Credit card,8.6
+94,Mumbai,Gold,Female,Health and Beauty,September,47.211875,944.2375,89.75,Credit card,6.6
+95,Delhi,Platinum,Male,Electronic Accessories,October,53.1009,1062.018,97.16,Ewallet,7.2
+96,Bangalore,Gold,Male,Health and Beauty,September,46.13175,922.635,878.7,Ewallet,5.1
+97,Mumbai,Silver,Female,Electronic Accessories,November,148.12175,2962.435,304.7,Cash,4.1
+98,Delhi,Gold,Male,Food and Beverages,December,8.308125,166.1625,15.25,Ewallet,9.3
