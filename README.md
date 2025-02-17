@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=4000&pause=1000&color=F7F7F7&background=FFFFFF00&width=435&lines=%F0%9F%93%88+Stock+Price+Prediction" alt="Typing SVG" /></a>
 
-![Stock Prediction Model](https://github.com/Karthik3904/Stock-Price-Prediction/blob/update-readme/images/Screenshot%202024-10-25%20194943.png)
+![Stock Prediction Model](https://socialify.git.ci/rohitinu6/Stock-Price-Prediction/image?font=Source+Code+Pro&forks=1&language=1&name=1&owner=1&pattern=Circuit+Board&stargazers=1&theme=Light)
 
 </div>
 
