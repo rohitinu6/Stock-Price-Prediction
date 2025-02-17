@@ -19,6 +19,10 @@
 │   ├── SBI Stock Analysis .png
 │   ├── SBI Stock Analysis Updated.pptx
 │   └── SBI Stock Analysis Updated.twbx
+├── Data_Analysis_salesdataset/
+│   ├── cleaned.csv
+│   ├── final sales project.ipynb
+│   └── sales.csv
 ├── Financial Environment Segmentation/
 │   ├── Financial Environment Segmentation.ipynb
 │   ├── Financial Insights - Market Segmentation.png
@@ -63,6 +67,7 @@
 │   └── Stock_Price_Prediction_REMOTE_20502.ipynb
 ├── README.md
 ├── SBIN.csv
+├── SECURITY.md
 ├── Stock_Price_Prediction(Updated) MultiLayer LSTM.ipynb
 ├── Stock_Price_Prediction(Updated).ipynb
 ├── Stock_Price_Prediction.ipynb
@@ -84,6 +89,7 @@
 │   ├── 6c9ebb5b-a8ed-44de-8842-bf8f5c25990f.jpeg
 │   ├── Screenshot 2024-10-25 194943.png
 │   └── f23e9194-72de-438d-bd69-744667680d3e.jpeg
+├── leaderboard.md
 ├── main.py
 ├── nifty_500.csv
 ├── prediction.pkl
