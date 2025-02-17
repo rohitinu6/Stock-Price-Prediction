@@ -26,6 +26,19 @@
       <img src="https://raw.githubusercontent.com/alo7lika/Stock-Price-Prediction/refs/heads/main/Images/hacktober.png" alt="Hacktober fest 2024" width="60%" height="40%">
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://devfolio-prod.s3.ap-south-1.amazonaws.com/hackathons/10e9c91c8b6e403ab676235d64c25af0/assets/cover/511.jpeg" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
+    <td align="center">
+      <img src="https://delta.nitt.edu/images/dwoc.webp" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://www.datocms-assets.com/16499/1700243872-dbeac558328c6cd9e9bddc5929502fc4.png?auto=format&w=800" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
+  </tr>
 </table>
 
 <br>
