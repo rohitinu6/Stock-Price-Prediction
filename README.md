@@ -181,19 +181,26 @@ Among the models assessed, **AdaBoostRegressor** and **LSTM** emerged as the top
 
 While some models demonstrated solid predictive capabilities, others, such as **Support Vector Regression (SVR)** and **KNeighborsRegressor**, recorded higher RMSE and MAE values. This indicates that these algorithms may yield acceptable predictions on average but are susceptible to significant errors in certain scenarios, emphasizing the need for careful model selection for stock price predictions.
 
-## ✍️ Author
-
-**Rohit Dubey** 👨‍💻
 
 ## 🤝 Contributing
 
 We welcome contributions to this project! Please see our [Contributing.md](./CONTRIBUTING.md) file for guidelines on how to get involved.
 
+## ✍️ Author
+
+**Rohit Dubey** 👨‍💻
+
 ## 🌍 Our Valuable Contributors
 
-<p align="center">
-    <img src="https://api.vaunt.dev/v1/github/entities/rohitinu6/repositories/Stock-Price-Prediction/contributors?format=svg&limit=54" width="700" height="250" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+       <a href="https://github.com/rohitinu6/Stock-Price-Prediction/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rohitinu6/Stock-Price-Prediction" />
+</a>
+    </td>
+  </tr>
+</table>
 
 ### 🎉 Thank You to All Our Amazing Contributors! 🎉
 
