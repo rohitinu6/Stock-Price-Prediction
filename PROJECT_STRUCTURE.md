@@ -19,14 +19,6 @@
 │   ├── SBI Stock Analysis .png
 │   ├── SBI Stock Analysis Updated.pptx
 │   └── SBI Stock Analysis Updated.twbx
-├── Data_Analysis_salesdataset/
-│   ├── cleaned.csv
-│   ├── final sales project.ipynb
-│   └── sales.csv
-├── Financial Environment Segmentation/
-│   ├── Financial Environment Segmentation.ipynb
-│   ├── Financial Insights - Market Segmentation.png
-│   └── README.md
 ├── Images/
 │   ├── 212284100-561aa473-3905-4a80-b561-0d28506553ee.gif
 │   ├── 329829127-e79eb6de-81b1-4ffb-b6ed-f018bb977e88.png
@@ -47,13 +39,6 @@
 │   └── requirements.txt
 ├── InvestWise - Stock Prediction Model.png
 ├── LICENSE
-├── Market Trend Classification Model/
-│   ├── Market Trend Classification Model.ipynb
-│   ├── MarketTrend Analytics - Classification Model.png
-│   └── README.md
-├── Multi-Asset Portfolio Modeling/
-│   ├── Multi-Asset Portfolio Modeling.ipynb
-│   └── README.md
 ├── PROJECT_STRUCTURE.md
 ├── Python File/
 │   ├── Stock_Price_Prediction.ipynb
@@ -98,15 +83,8 @@
 ├── requirements.txt
 ├── sentiment_model.h5
 ├── sentiment_model.keras
-├── static/
-│   └── css/
-│       ├── home.css
-│       └── stock.css
 ├── stock_data.csv
 ├── stock_market(complete).ipynb
-├── stock_sentimental.ipynb
-└── templates/
-    ├── home.html
-    └── stock.html
+└── stock_sentimental.ipynb
 ```
 <!-- END_STRUCTURE -->
