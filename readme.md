@@ -66,8 +66,8 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 - [🔧 Optimization Techniques](#-optimization-techniques)
 - [🔮 Future Work](#-future-work)
 - [🏆 Conclusion](#-conclusion)
-- [✍️ Author](#️-author)
 - [🤝 Contributing](#-contributing)
+- [✍️ Author](#️-author)
 - [🌍 Our Valuable Contributors](#-our-valuable-contributors)
   - [🎉 Thank You to All Our Amazing Contributors! 🎉](#-thank-you-to-all-our-amazing-contributors-)
 - [📝 License](#-license)
@@ -113,12 +113,82 @@ The dataset used in this project is sourced from Yahoo Finance and includes hist
 - 📦 Volume
 
 ## 📁 Project Structure
-
-📂 data/ # Contains the dataset files.
-📓 notebooks/ # Jupyter notebooks with the code for data exploration, preprocessing, and model training.
-🐍 src/ # Python source code for the project.
-📋 requirements.txt # List of dependencies needed to run the project.
-
+  ```bash
+Directory structure:
+└── rohitinu6-stockcast.git/
+    ├── readme.md
+    ├── License
+    ├── repo_structure.txt
+    ├── requirements.txt
+    ├── ARIMA/
+    │   ├── README.md
+    │   ├── ARIMA_V2.ipynb
+    │   ├── hybrid.ipynb
+    │   ├── saved_model/
+    │   │   ├── arima_model.pkl
+    │   │   ├── lstm_model.h5
+    │   │   └── scaler.pkl
+    │   └── .ipynb_checkpoints/
+    │       ├── ARIMA_V2-checkpoint.ipynb
+    │       └── hybrid-checkpoint.ipynb
+    ├── Data/
+    │   ├── SBI Test data.csv
+    │   ├── SBI Train data.csv
+    │   └── SBIN.csv
+    ├── Data Analysis/
+    │   ├── SBI Stock Analysis Updated.pptx
+    │   └── SBI Stock Analysis Updated.twbx
+    ├── Images/
+    │   └── Image
+    ├── Intel_Optimized/
+    │   ├── readme.md
+    │   ├── ARIMA_V2.ipynb
+    │   ├── Intel_Optimization.md
+    │   ├── Stock_Price_Prediction_1.ipynb
+    │   ├── Stock_prediction_Data_Analysis.ipynb
+    │   ├── buy_sell_recommendation_system.ipynb
+    │   ├── hybrid.ipynb
+    │   ├── reduced_redundancy_stock_price_prediction.ipynb
+    │   ├── requirements.txt
+    │   └── images/
+    ├── Jupyter Source Files/
+    │   ├── Buy Sell Recommendation.ipynb
+    │   ├── EDA + Models.ipynb
+    │   ├── Reduced Redundancy.ipynb
+    │   ├── Stock Price Prediction.ipynb
+    │   └── VWAP based Models.ipynb
+    ├── Markdown Source Files/
+    │   ├── Code of conduct.md
+    │   ├── Contributing.md
+    │   ├── Leaderboard.md
+    │   ├── Project structure.md
+    │   └── Security.md
+    ├── Python Files/
+    │   ├── Stock_Price_Prediction.ipynb
+    │   ├── Stock_Price_Prediction_BACKUP_19716.ipynb
+    │   ├── Stock_Price_Prediction_BACKUP_20502.ipynb
+    │   ├── Stock_Price_Prediction_BASE_19716.ipynb
+    │   ├── Stock_Price_Prediction_BASE_20502.ipynb
+    │   ├── Stock_Price_Prediction_LOCAL_19716.ipynb
+    │   ├── Stock_Price_Prediction_LOCAL_20502.ipynb
+    │   ├── Stock_Price_Prediction_REMOTE_19716.ipynb
+    │   └── Stock_Price_Prediction_REMOTE_20502.ipynb
+    ├── catboost_info/
+    │   ├── catboost_training.json
+    │   ├── learn_error.tsv
+    │   ├── time_left.tsv
+    │   └── learn/
+    │       └── events.out.tfevents
+    ├── images/
+    └── .ipynb_checkpoints/
+        ├── More_Charts.ipynb
+        ├── Stock_Price_Prediction(Updated) MultiLayer LSTM-checkpoint.ipynb
+        ├── Stock_Price_Prediction-checkpoint.ipynb
+        ├── Stock_prediction_Data_Analysis-checkpoint.ipynb
+        ├── candlestick_chart.html
+        ├── stock_market(complete)-checkpoint.ipynb
+        └── stock_sentimental-checkpoint.ipynb
+  ```
 
 ## 🚀 How to Run `main.py`
 **Steps**:
