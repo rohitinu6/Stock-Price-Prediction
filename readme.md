@@ -52,7 +52,6 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 ## 📚 Table of Contents
 
 - [📈 GitHub Repository Stats](#-github-repository-stats)
-  - [This project is now OFFICIALLY accepted for](#this-project-is-now-officially-accepted-for)
 - [✨ Project Structure](#-project-structure)
 - [📚 Table of Contents](#-table-of-contents)
 - [🌞 Overview](#-overview)
@@ -69,7 +68,6 @@ Check the project structure here [Project Structure](PROJECT_STRUCTURE.md)
 - [🤝 Contributing](#-contributing)
 - [✍️ Author](#️-author)
 - [🌍 Our Valuable Contributors](#-our-valuable-contributors)
-  - [🎉 Thank You to All Our Amazing Contributors! 🎉](#-thank-you-to-all-our-amazing-contributors-)
 - [📝 License](#-license)
 - [📱 Connect with Us](#-connect-with-us)
 
