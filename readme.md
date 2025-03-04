@@ -38,6 +38,9 @@
     <td align="center">
       <img src="https://www.datocms-assets.com/16499/1700243872-dbeac558328c6cd9e9bddc5929502fc4.png?auto=format&w=800" alt="Hacktober fest 2024" width="60%" height="40%">
     </td>
+    <td align="center">
+      <img src="https://i.ytimg.com/vi/I-U0tMaIGtU/maxresdefault.jpg" alt="Hacktober fest 2024" width="60%" height="40%">
+    </td>
   </tr>
 </table>
 
